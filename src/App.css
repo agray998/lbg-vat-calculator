@@ -1,13 +1,18 @@
-.field{
+.field          {
   width: 300px;
   padding-bottom: 20px;
 }
 
-.colour-border{
-  border: 6px solid crimson;
+.colour-border  {
+  border: 3px solid crimson;
   padding: 10px;
 }
 
-.header{
+.header         {
   padding: 10px;
+}
+
+body            {
+  background-color: cornflowerblue;
+  color: white;
 }
